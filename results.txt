@@ -1,0 +1,49 @@
+S&P 500 LONG-RUN ANALYSIS
+Rows loaded: 1,869 monthly observations (Jan 1871 - Sep 2026)
+Placeholder zeros converted to missing: 420
+Complete months used for return math: 1,830 (Jan 1871 - Jun 2023)
+
+1) RETURNS
+   Price-only growth:             4.61% per year
+   Total return (w/ dividends):   9.17% per year
+   Average inflation:             2.12% per year
+   Real total return:             6.90% per year
+   $1 invested in 1871 grew to $641,812 nominal, a 26,210x gain in purchasing power after inflation
+   Dividends' share of total return: 50%
+   Real total return by decade:
+     1870s   10.87%
+     1880s    8.33%
+     1890s    5.55%
+     1900s    7.72%
+     1910s   -1.93%
+     1920s   16.31%
+     1930s    2.11%
+     1940s    3.39%
+     1950s   16.66%
+     1960s    5.13%
+     1970s   -1.41%
+     1980s   11.58%
+     1990s   14.63%
+     2000s   -3.17%
+     2010s   11.36%
+   Best decade: 1950s (16.7%/yr); worst: 2000s (-3.2%/yr)
+
+2) BIGGEST CRASHES (inflation-adjusted, dividends reinvested)
+   Great Depression        -76.8%  (peak Sep 1929, bottom Jun 1932; 7 yrs 2 mo to new high)
+   1970s stagflation       -50.1%  (peak Jan 1973, bottom Dec 1974; 12 yrs 0 mo to new high)
+   Dot-com bust            -44.8%  (peak Aug 2000, bottom Feb 2003; 12 yrs 9 mo to new high)
+   2008 financial crisis   -49.9%  (peak Oct 2007, bottom Mar 2009; 5 yrs 5 mo to new high)
+   COVID-19                -18.9%  (peak Jan 2020, bottom Mar 2020; 0 yrs 7 mo to new high)
+
+3) VALUATION (CAPE) vs. NEXT-10-YEAR REAL RETURN
+   Months with a full 10 years of future data: 1,590 (1881 - 2013)
+   Correlation: -0.52   R-squared: 0.27
+   Each +1 point of CAPE ~ -0.41% lower annual real return over next 10 yrs
+   By CAPE quintile:
+     Cheapest 20%  CAPE   4.8- 11.1:  avg 10.90%/yr, negative  0.0% of the time
+     2nd           CAPE  11.1- 14.4:  avg  7.20%/yr, negative 10.4% of the time
+     Middle        CAPE  14.4- 17.3:  avg  6.56%/yr, negative 10.4% of the time
+     4th           CAPE  17.3- 21.0:  avg  5.59%/yr, negative  9.7% of the time
+     Priciest 20%  CAPE  21.0- 44.2:  avg  2.97%/yr, negative 30.2% of the time
+   Latest CAPE in data: 30.8 (Sep 2023); historical median 16.5
+
